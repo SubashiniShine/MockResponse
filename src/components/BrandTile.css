@@ -1,0 +1,41 @@
+.brand-tile {
+    border: 1px solid;
+    padding: 20px;
+    text-align: center;
+    border-radius: 10px;
+    box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);
+    transition: transform 0.3s ease, box-shadow 0.3s ease;
+    cursor: pointer;
+    margin-bottom: 20px;
+  }
+  
+  .brand-tile:hover {
+    transform: translateY(-5px);
+    box-shadow: 0 6px 12px rgba(0, 0, 0, 0.2);
+  }
+  
+  .brand-logo {
+    width: 100px;
+    height: 100px;
+    object-fit: contain;
+    margin-bottom: 10px;
+  }
+  
+  .products {
+    margin-top: 10px;
+  }
+  
+  .product-button {
+    margin: 5px;
+    padding: 10px;
+    background-color: #fff;
+    border: 1px solid;
+    border-radius: 5px;
+    cursor: pointer;
+    transition: background-color 0.3s ease;
+  }
+  
+  .product-button:hover {
+    background-color: #f0f0f0;
+  }
+  

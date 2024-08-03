@@ -1,0 +1,63 @@
+.product-options {
+    border: 1px solid;
+    padding: 20px;
+    margin-top: 20px;
+    border-radius: 10px;
+    background-color: #fff;
+  }
+  
+  .option-group {
+    margin-bottom: 20px;
+  }
+  
+  .option-group button {
+    margin: 5px;
+    padding: 10px;
+    background-color: #e0e0e0;
+    border: none;
+    border-radius: 5px;
+    cursor: pointer;
+    transition: background-color 0.3s ease;
+  }
+  
+  .option-group button:hover {
+    background-color: #bdbdbd;
+  }
+  
+  .display-box {
+    margin-top: 20px;
+    padding: 10px;
+    border: 1px solid #ccc;
+    border-radius: 5px;
+    background-color: #fafafa;
+  }
+  
+  .display-box button {
+    margin-top: 10px;
+    padding: 5px 10px;
+    background-color: #1976d2;
+    color: white;
+    border: none;
+    border-radius: 5px;
+    cursor: pointer;
+  }
+  
+  .display-box button:hover {
+    background-color: #1565c0;
+  }
+  
+  .close-button {
+    margin-top: 20px;
+    padding: 10px;
+    background-color: #e57373;
+    color: white;
+    border: none;
+    border-radius: 5px;
+    cursor: pointer;
+    transition: background-color 0.3s ease;
+  }
+  
+  .close-button:hover {
+    background-color: #d32f2f;
+  }
+  
