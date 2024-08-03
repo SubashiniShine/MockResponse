@@ -1,7 +1,7 @@
 import React, { useState } from 'react';
-import BrandTile from './components/BrandTile';
-import LoginPage from './components/LoginPage';
-import AdminPanel from './components/AdminPanel';
+import BrandTile from './components/Brand/BrandTile';
+import LoginPage from './components/Login/LoginPage';
+import AdminPanel from './components/Admin/AdminPanel';
 import './App.css';
 
 const brands = [

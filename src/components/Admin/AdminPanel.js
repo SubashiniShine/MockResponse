@@ -1,5 +1,5 @@
 import React, { useState } from 'react';
-import DataBox from './DataBox';
+import DataBox from '../Data/DataBox';
 import './AdminPanel.css';
 
 const initialData = {

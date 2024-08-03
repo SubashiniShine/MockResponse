@@ -1,5 +1,5 @@
 import React, { useState } from 'react';
-import ProductOptions from './ProductOptions';
+import ProductOptions from '../Product/ProductOptions';
 import './BrandTile.css';
 
 const BrandTile = ({ brand, themeColor }) => {
